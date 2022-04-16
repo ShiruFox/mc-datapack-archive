@@ -1,1 +1,1 @@
-# Example for the function datapack structure, copy to make new datapacks
+Example for the function datapack structure, copy to make new datapacks
