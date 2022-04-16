@@ -1,0 +1,1 @@
+scoreboard players set @a tntimer 300

@@ -1,0 +1,9 @@
+summon arrow ~ ~1 ~ {CustomName:'{"text":"Beacon"}'}
+summon arrow ~15 ~ ~ {CustomName:'{"text":"SpawnBox"}'}
+summon arrow ~ ~ ~15 {CustomName:'{"text":"SpawnBox"}'}
+summon arrow ~-15 ~ ~ {CustomName:'{"text":"SpawnBox"}'}
+summon arrow ~ ~ ~-15 {CustomName:'{"text":"SpawnBox"}'}
+summon arrow ~11 ~ ~11 {CustomName:'{"text":"SpawnBox"}'}
+summon arrow ~-11 ~ ~-11 {CustomName:'{"text":"SpawnBox"}'}
+summon arrow ~11 ~ ~-11 {CustomName:'{"text":"SpawnBox"}'}
+summon arrow ~-11 ~ ~11 {CustomName:'{"text":"SpawnBox"}'}
