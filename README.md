@@ -1,2 +1,2 @@
 # mc-datapack-archive
-An archive of all the Minnecraft datapacks I've made
+An archive of all the Minecraft datapacks I've made
